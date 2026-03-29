@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bsp_tim.h": "c",
+        "bsp_can.h": "c",
+        "main.h": "c",
+        "usart.h": "c"
+    }
+}
